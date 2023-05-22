@@ -1,0 +1,34 @@
+*{
+    background-color: bisque;
+  margin: 20px
+  
+    
+}
+.skill{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#bio{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(83, 19, 19);
+text-underline-position: under;
+text-decoration: underline;
+text-align: center;
+
+}
+.int{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+body{
+    border: solid;
+    text-align: center;
+}
+#img{
+
+}
